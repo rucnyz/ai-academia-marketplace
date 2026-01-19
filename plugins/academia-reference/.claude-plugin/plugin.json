@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Format academic references into proper BibTeX format for arXiv papers, conference papers, and GitHub/URL sources",
   "author": {
-    "name": "rucnyz"
+    "name": "Yuzhou Nie",
+    "email": "rucnyz@gmail.com"
   },
   "license": "MIT",
-  "keywords": ["bibtex", "academic", "reference", "citation", "arxiv"]
+  "keywords": ["bibtex", "academic", "reference", "citation", "arxiv"],
+  "agents": "./agents/"
 }
