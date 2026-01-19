@@ -7,6 +7,5 @@
     "email": "rucnyz@gmail.com"
   },
   "license": "MIT",
-  "keywords": ["bibtex", "academic", "reference", "citation", "arxiv"],
-  "agents": "./agents/"
+  "keywords": ["bibtex", "academic", "reference", "citation", "arxiv"]
 }
