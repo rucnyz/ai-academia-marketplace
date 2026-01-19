@@ -1,0 +1,11 @@
+{
+  "name": "academia-reference",
+  "version": "1.0.0",
+  "description": "Format academic references into proper BibTeX format for arXiv papers, conference papers, and GitHub/URL sources",
+  "author": {
+    "name": "yuzhounie"
+  },
+  "license": "MIT",
+  "keywords": ["bibtex", "academic", "reference", "citation", "arxiv"],
+  "agents": "./agents/"
+}
